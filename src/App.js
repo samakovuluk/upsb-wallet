@@ -4,18 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is UPSB Wallet
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        КОШЕЛЕК
+      <p>Это приложение работает на другом порту</p>
     </div>
   );
 }
