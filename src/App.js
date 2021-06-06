@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
         КОШЕЛЕК
+      <p>Это приложение работает на другом порту</p>
     </div>
   );
 }
